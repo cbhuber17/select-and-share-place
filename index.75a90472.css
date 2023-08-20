@@ -1,0 +1,21 @@
+html {
+  font-family: sans-serif;
+}
+
+#map {
+  text-align: center;
+  border: 1px solid #ccc;
+  justify-content: center;
+  align-items: center;
+  width: 90%;
+  height: 20rem;
+  margin: 2rem auto;
+  display: flex;
+}
+
+form {
+  text-align: center;
+  margin: 2rem auto;
+}
+
+/*# sourceMappingURL=index.75a90472.css.map */
